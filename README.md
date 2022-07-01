@@ -16,3 +16,7 @@ respectively.
 
 Unprocessed data is in the file "Raw Data" if needed.
 
+One of the possible improvements to the training method would be randomly
+allocating data rows for training, validating and testing. This would maximise
+the chances of a given model to go train and adapt to all kinds of different data
+and, therefore, make it more flexible.
