@@ -1,5 +1,5 @@
 # ANN
-Implementation of MLP algorithm
+Implementation of MLP algorithm.
 My standard MLP algorithm consists of and is limited to 1 output node and 1 hidden layer, 
 but it can operate with any number of neurons, inputs, epochs,
 and a step size of any value. I have also made two other models with addition
